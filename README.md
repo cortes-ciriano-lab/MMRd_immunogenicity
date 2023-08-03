@@ -7,7 +7,3 @@ If you have any comments or suggestions, please raise an issue or contact us:
 - Francesc Muyas: fmuyas@ebi.ac.uk
 - Isidro Cortes-Ciriano: icortes@ebi.ac.uk
 - Peter Westcott: westcott@cshl.edu
-
-### License
-These scripts are free for academic use only. If you are not a member of a publicly funded academic and/or education and/or research institution you must obtain a commercial license from EMBL Enterprise Management GmbH (EMBLEM); please email EMBLEM (info@embl-em.de).
-
